@@ -1,11 +1,11 @@
 {
-  "buildTime": "2025-10-17T23:02:51.976Z",
+  "buildTime": "2026-03-18T22:40:31.113Z",
   "builtWith": {
-    "toolchain": "1.0.0-alpha.53",
-    "types": "1.0.0-alpha.53"
+    "toolchain": "1.0.0-alpha.64",
+    "types": "1.0.0-alpha.64"
   },
   "repository": {
-    "name": "Tracker Extensions (0.9)",
+    "name": "tracker-extensions",
     "description": "Paperback extensions for integrating with progress tracking services. Maintained by Inkdex."
   },
   "sources": [
@@ -30,7 +30,7 @@
     {
       "name": "MangaUpdates",
       "description": "Extension that integrates with mangaupdates.com for tracking and collection management.",
-      "version": "1.0.0-alpha.2",
+      "version": "1.0.0-alpha.3",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
