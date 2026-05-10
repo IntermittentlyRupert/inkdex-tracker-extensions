@@ -1,8 +1,8 @@
 {
-  "buildTime": "2026-03-18T23:06:21.113Z",
+  "buildTime": "2026-05-10T04:21:55.863Z",
   "builtWith": {
-    "toolchain": "1.0.0-alpha.57",
-    "types": "1.0.0-alpha.57"
+    "toolchain": "1.0.0-alpha.86",
+    "types": "1.0.0-alpha.86"
   },
   "repository": {
     "name": "Tracker Extensions (0.9)",
@@ -12,11 +12,16 @@
     {
       "name": "AniList",
       "description": "Extension that integrates with anilist.co for tracking and collection management.",
-      "version": "1.0.0-alpha.11",
+      "version": "1.0.0-alpha.14",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
-      "capabilities": 102,
+      "capabilities": [
+        4,
+        2,
+        32,
+        64
+      ],
       "badges": [],
       "developers": [
         {
@@ -30,11 +35,16 @@
     {
       "name": "MangaUpdates",
       "description": "Extension that integrates with mangaupdates.com for tracking and collection management.",
-      "version": "1.0.0-alpha.5",
+      "version": "1.0.0-alpha.6",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
-      "capabilities": 102,
+      "capabilities": [
+        4,
+        2,
+        32,
+        64
+      ],
       "badges": [],
       "developers": [
         {
