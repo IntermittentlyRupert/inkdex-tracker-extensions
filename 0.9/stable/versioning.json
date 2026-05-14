@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-05-13T02:22:58.615Z",
+  "buildTime": "2026-05-14T02:11:20.335Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.87",
     "types": "1.0.0-alpha.87"
@@ -36,7 +36,7 @@
     {
       "name": "MangaUpdates",
       "description": "Extension that integrates with mangaupdates.com for tracking and collection management.",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0-alpha.7",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
